@@ -10,3 +10,5 @@ pipelines/*
 
 .venv
 venv/
+
+python_3_12/
